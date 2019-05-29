@@ -4,6 +4,8 @@ function scuberGreetingForFeed(num) {
   message = "This one is on me!"
   if (num <= 400) {
     return message
-  else
+  }
+  else {
+    message = "not for you"
   }
 }
