@@ -1,6 +1,6 @@
 let message;
 
-function scuberGreetingForFeed(num) {
+function scuberGreetingForFeet(num) {
   message = "This one is on me!"
   if (num <= 400) {
     return message
