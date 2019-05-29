@@ -24,7 +24,6 @@ function switchOnCharmFromTip(tip) {
       break
     default:
       return "bye"
-      b
-      
+      break
   }
 }
