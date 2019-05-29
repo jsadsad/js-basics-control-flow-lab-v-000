@@ -1,7 +1,9 @@
+let message;
+
 function scuberGreetingForFeed(num) {
-  message = ""
+  message = "This one is on me!"
   if (num <= 400) {
-    return "This one is on me!"
+    return message
   else
   }
 }
