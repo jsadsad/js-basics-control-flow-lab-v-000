@@ -5,9 +5,10 @@ function scuberGreetingForFeet(num) {
   if (num <= 400) {
     return message
   }
-  else {
-    message = "not for you"
+  else if (num > 2000) {
+    message = "I will gladly take your thirty bucks."
   }
+  else if 
 }
 
 function ternaryCheckCity() {
